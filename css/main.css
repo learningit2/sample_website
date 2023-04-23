@@ -4,3 +4,40 @@
 .nav-spacing{
 	margin: 0 0 0 10px;
 }
+.image-link{
+	text-decoration: none;
+}
+.header{
+	margin: 0 0 80px 0;
+}
+.header-headings{
+	text-align: center;
+}
+.sperm-whales-img{
+	display: block;
+	margin: 0px auto;
+}
+.content-div-moby{
+	width: 500px;
+	margin: 20px auto;
+	padding: 30px;
+	background-color: #fafafa;
+}
+.moby-dick-img{
+	float: left;
+	margin: 0 40px 0 0
+}
+.ishmael-quote{
+	font-style: italic;
+	font-size: 20px;
+}
+.ishmael-span{
+	font-style: normal;
+	font-size: 24px;
+	font-weight: bold;
+	color: #f00;
+}
+.astrounaut-tagged-img{
+	width: 285px;
+	height: 185px;
+}
